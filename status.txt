@@ -1,0 +1,8 @@
+I am in the middle of getting the click event to work on the polaroids.
+
+The click seems to be detected, but the wiring for the gallery does not work.
+
+I need to be careful on the structure of the HTML since a previous version 
+for some reason rendered with unbalanced divs and both the mainDiv and the 
+galleryDiv were NESTED rather than SIBLINGS.
+
